@@ -1,6 +1,6 @@
 # Hi, I'm Tsewang Diki Ghale
 
-BI / Reporting Analyst focused on SQL, Python, Tableau, Power BI, and operational KPI reporting.
+Data Analyst focused on SQL, Python, Tableau, Power BI, and operational KPI reporting.
 
 I build dashboards and analysis workflows that turn messy data into clear decisions. My work focuses on KPI dashboarding, data cleaning, data validation, trend analysis, stakeholder reporting, and business operations insights.
 
