@@ -1,53 +1,71 @@
 # Hi, I'm Tsewang Diki Ghale
 
-Aspiring Data Analyst and Business Analyst focused on turning data into clear, useful decisions.
+BI / Reporting Analyst focused on SQL, Python, Tableau, Power BI, and operational KPI reporting.
 
-My academic background is in Management Information Systems / Information Technology at the University of Oklahoma. My work combines analytics, business operations, database thinking, and cross-cultural leadership.
+I build dashboards and analysis workflows that turn messy data into clear decisions. My work focuses on KPI dashboarding, data cleaning, data validation, trend analysis, stakeholder reporting, and business operations insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tsewangghale-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tsewangghale/)
 [![Email](https://img.shields.io/badge/Email-dikighaleb11.3%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dikighaleb11.3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-tsewang--ghale-181717?style=flat&logo=github&logoColor=white)](https://github.com/tsewang-ghale)
 
-## What I Work With
+## Core Skills
 
-**Data analysis:** SQL, Python, Pandas, Matplotlib, Seaborn, Excel  
-**Visualization and reporting:** Tableau, dashboards, data storytelling  
-**Databases and systems:** MongoDB, ERD, database design, SAP S/4HANA, ERP systems  
-**Business tools:** Power Apps, Microsoft Office, operations workflows  
-**Strengths:** data cleaning, communication, teamwork, leadership, customer service
+**BI and reporting:** Tableau, Power BI, Looker Studio, KPI dashboards, data storytelling
 
-## Current Focus
+**Data analysis:** SQL, Python, Pandas, Matplotlib, Seaborn, Microsoft Excel
 
-- Building a stronger analytics portfolio with SQL, Python, Tableau, and business-focused projects
-- Looking for opportunities in data analysis, business analysis, database administration, and business operations
-- Practicing how to turn messy data into practical recommendations for decision makers
+**Analytics methods:** data cleaning, data validation, A/B test analysis, user segmentation, trend analysis, forecasting
 
-## Featured Work
+**Systems and tools:** SAP S/4HANA, MongoDB, ERD, Power Apps, Google Analytics, Ahrefs, Google Search Console
+
+**Collaboration:** cross-functional communication, stakeholder reporting, leadership, teamwork
+
+## Current Work
+
+**Data & Analytics Intern, Comcreate**
+
+I build Tableau and Power BI dashboards tracking ticket volume, resolution time, SLA compliance, and backlog trends. I also query, clean, and validate data from tools such as Google Analytics, Ahrefs, Google Search Console, and internal systems to support stakeholder reporting.
+
+## Featured Projects
 
 | Project | Focus |
 | --- | --- |
-| [ProjectsTableau](https://github.com/tsewang-ghale/ProjectsTableau) | Tableau dashboards and visual analytics |
-| [PortfolioProjects](https://github.com/tsewang-ghale/PortfolioProjects) | Data analytics portfolio work |
-| [projectpantry](https://github.com/tsewang-ghale/projectpantry) | Web and project development practice |
-| [project_summer](https://github.com/tsewang-ghale/project_summer) | Academic and technical project work |
+| [covid-sql-analysis](https://github.com/tsewang-ghale/covid-sql-analysis) | SQL Server exploration of COVID-19 cases, deaths, population, and vaccination trends |
+| [tableau-analytics-projects](https://github.com/tsewang-ghale/tableau-analytics-projects) | Tableau dashboards for real estate, bank marketing, and restaurant recommendation analysis |
+| [kpop-library](https://github.com/tsewang-ghale/kpop-library) | PHP and MySQL web app with CRUD workflows, search, and Chart.js summaries |
+| [projectpantry](https://github.com/tsewang-ghale/projectpantry) | PHP food pantry ordering system with order flow and database-backed records |
+| [hotel-santi-website](https://github.com/tsewang-ghale/hotel-santi-website) | Bootstrap hotel website with room availability, services, reviews, and local imagery |
 
-## Experience Highlights
+## Project Highlights
 
-**Customer Service Office Assistant, University of Oklahoma**  
-I support accurate data entry, ERP record management, work order tracking, and consistent information retrieval for daily operations.
+**CTM Admissions Stability Analysis**
 
-**Co-leader, The United World at OU**  
-I helped organize international events, cultural programs, and student engagement initiatives that strengthened cross-cultural collaboration.
+Analyzed 1,800+ inbound call records using SQL, Excel, Looker Studio, and Power BI to identify missed-call patterns, peak call times, agent readiness issues, and queue routing opportunities.
 
-**Peace Project, Nar, Nepal**  
-I secured funding and led a menstrual health education initiative focused on sustainable sanitary products, health awareness, and community conversation.
+**Analytical Programming with Python**
+
+Built visualizations with Matplotlib and Seaborn to analyze how education, age, and weekly work hours relate to income distribution.
+
+**Davis Projects for Peace, Nar, Nepal**
+
+Secured $10,000 in funding and led a menstrual health initiative serving 100+ women through education workshops and eco-friendly sanitary product distribution.
 
 ## Education
 
 **University of Oklahoma, Price College of Business**  
-BBA and MS studies in Management Information Systems / Information Technology
+MS, Information Technology
 
-Relevant coursework includes advanced database management, data warehousing, analytics programming, business programming, e-commerce web design, and database design and administration.
+GPA: 3.88
+
+Relevant coursework includes advanced database management, principles of data warehousing, analytics programming, business programming, cloud computing, and e-commerce web design.
+
+Certifications include Deloitte Australia Data Analytics Job Simulation and Goldman Sachs Operations Job Simulation.
+
+## Leadership
+
+**Co-Leader, The United World at OU**
+
+Led planning and execution for 10+ international events in partnership with international student organizations, supporting cross-cultural engagement for domestic and international students.
 
 ## Let's Connect
 
